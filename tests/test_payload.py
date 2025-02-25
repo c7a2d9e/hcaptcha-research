@@ -5,7 +5,7 @@ from src import Payload
 
 TEST_FILE_REQUEST = "test_payload.bin"
 KEY_ENCRYPT = "0dab4adfafe851a03f225b2948a36cd064805d99e2a74b48135b869d9b3cd9c7"
-EXPECTED_VERSION = "9124ffd8f5f2c6e337d7bca9aebb40fbdb78dde420f3e6b156b820445bf3d1a2"
+EXPECTED_VERSION = "2382cc9b798791561b0dfdb2639870e37cbeb9fd"
 EXPECTED_TYPE = "hsw"
 
 @pytest.fixture
