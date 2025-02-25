@@ -1,5 +1,5 @@
 # hCaptcha Research
-Research for [hCaptcha](https://hcaptcha.com)'s encryption methods.
+Research relating to [hCaptcha](https://hcaptcha.com)'s encryption methods.
 If you're looking for paid commissions based around hCaptcha or wish to purchase up-to-date keys, contact me at [work@sys32.dev](mailto://work@sys32.dev)
 
 > [!NOTE]
